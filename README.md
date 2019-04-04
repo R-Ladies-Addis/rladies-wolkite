@@ -1,7 +1,7 @@
-R-Ladies Addis Study Group (a [Mozilla Study Group](https://www.mozillascience.org/))
+R-Ladies Wolkite Study Group (a [Mozilla Study Group](https://www.mozillascience.org/))
 ============
 
-Welcome to R-Ladies's Study Group. We are a group of students, staff, and researchers interested in open science, coding, reproducible research, and research. We're an open group and anyone associated with BU is welcome to join, attend, or lead a session. 
+Welcome to R-Ladies's Study Group. We are a group of students, staff, and researchers interested in open science, coding, reproducible research, and research. We're an open group and anyone associated with WTU is welcome to join, attend, or lead a session. 
 
 
 
